@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+# Sourced from https://www.tensorflow.org/tutorials/generative/cvae and adapted for use with BEC images
 from IPython import display
 
 # import glob
